@@ -9,10 +9,10 @@ zaawansowanego. Aplikacja bedzie rozwijana jako usluga API w ASP.NET Core.
 - Git
 ## Uruchomienie
 Wymagane srodowisko: .NET SDK w wersji wskazanej przez prowadzacego.
-```bash
+
 dotnet 10.0.402
-```
+
 ## Autor
 Blazej Matyniak
 ## Status
-Etap: konfiguracja srodowiska i repozytorium.
+Etap: konfiguracja srodowiska (git, VisualStudio etc) i repozytorium.
