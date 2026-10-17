@@ -1,6 +1,6 @@
-# prog_sem5
-# TaskFlow API
-TaskFlow API to demonstracyjny projekt przygotowywany w ramach laboratoriow z Programowania
+# PZL-Matyniak-Blazej
+
+PZL-Matyniak-Blazej to demonstracyjny projekt przygotowywany w ramach laboratoriow z Programowania
 zaawansowanego. Aplikacja bedzie rozwijana jako usluga API w ASP.NET Core.
 ## Technologie
 - C#
@@ -8,7 +8,7 @@ zaawansowanego. Aplikacja bedzie rozwijana jako usluga API w ASP.NET Core.
 - ASP.NET Core
 - Git
 ## Uruchomienie
-Wymagane srodowisko: .NET SDK w wersji wskazanej przez prowadzacego.
+Wymagane srodowisko: 
 
 dotnet 10.0.402
 
