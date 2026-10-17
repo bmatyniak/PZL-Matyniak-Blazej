@@ -10,7 +10,7 @@ zaawansowanego. Aplikacja bedzie rozwijana jako usluga API w ASP.NET Core.
 ## Uruchomienie
 Wymagane srodowisko: .NET SDK w wersji wskazanej przez prowadzacego.
 ```bash
-dotnet --version
+dotnet 10.0.402
 ```
 ## Autor
 Blazej Matyniak
